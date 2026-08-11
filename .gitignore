@@ -1,0 +1,7 @@
+# Ignora arquivos compilados do Java
+*.class
+
+# Ignora pastas de compilação padrão (útil para o futuro)
+/bin/
+/build/
+/target/
