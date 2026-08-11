@@ -1,2 +1,0 @@
-Olá mundo, eu sei usar o Git!
-
